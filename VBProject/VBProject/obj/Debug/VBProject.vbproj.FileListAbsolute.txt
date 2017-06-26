@@ -1,0 +1,28 @@
+c:\users\niki\documents\visual studio 2015\Projects\VBProject\VBProject\bin\Debug\VBProject.exe.config
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\obj\Debug\VBProject.vbprojResolveAssemblyReference.cache
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\obj\Debug\VBProject.Resources.resources
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\obj\Debug\VBProject.vbproj.GenerateResource.Cache
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\obj\Debug\VBProject.xml
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\bin\Debug\VBProject.exe
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\bin\Debug\VBProject.pdb
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\bin\Debug\VBProject.xml
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\obj\Debug\VBProject.exe
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\obj\Debug\VBProject.pdb
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\bin\Debug\VBProject.exe.manifest
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\bin\Debug\VBProject.application
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\obj\Debug\VBProject.exe.manifest
+C:\Users\Niki\documents\visual studio 2015\Projects\VBProject\VBProject\obj\Debug\VBProject.application
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\bin\Debug\VBProject.exe.config
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\obj\Debug\VBProject.exe
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\obj\Debug\VBProject.xml
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\obj\Debug\VBProject.pdb
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\bin\Debug\VBProject.exe.manifest
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\bin\Debug\VBProject.application
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\bin\Debug\VBProject.exe
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\bin\Debug\VBProject.pdb
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\bin\Debug\VBProject.xml
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\obj\Debug\VBProject.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\obj\Debug\VBProject.Resources.resources
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\obj\Debug\VBProject.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\obj\Debug\VBProject.exe.manifest
+C:\Users\user\Documents\Aueb\VBNet POP3\VBProject\VBProject\obj\Debug\VBProject.application
